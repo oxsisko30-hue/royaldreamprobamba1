@@ -1,20 +1,20 @@
 {
-  "enabled": false,
+  "enabled": true,
   "promos": [
     {
       "id": "mygame1",
-      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/1.jpg",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame1"
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/royaldreamprobamba1/refs/heads/main/Create_promo_card_from_icon_202609020535.jpeg",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.swift.order.flow.numbers.regete&gl=ph"
     },
     {
       "id": "mygame2",
-      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/22.jpg",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame2"
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/royaldreamprobamba1/refs/heads/main/Create_portrait_cross_promo_card_202609020609.jpeg",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.gzoneph.gzonephonline.gamezoneph.gamezonephonline&gl=ph"
     },
     {
       "id": "mygame3",
-      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/testapopo/refs/heads/main/33.jpg",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.mygame3"
+      "tileImageUrl": "https://raw.githubusercontent.com/oxsisko30-hue/royaldreamprobamba1/refs/heads/main/Transforming_app_icon_to_promo_202609020524.jpeg",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nustar.nustarph.nustarcasino.nustarcasinoph.qawdoha&gl=ph"
     }
   ]
 }
